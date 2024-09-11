@@ -42,7 +42,60 @@
 *&lt;O projeto também se preocupará com a acessibilidade, assegurando que o sistema seja inclusivo para todos os usuário, incluindo pessoas com deficiências, através de recursos como ajuste de tamanho de fonte. Finalmente, o sistema será acessível de qualquer navegador web e em dispositivos móveis, proporcionando flexibilidade e conveniência para todos os envolvidos.&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+
+## Requisitos Funcionais 
+
+|Registros de Faltas|
+|----------------------------------------------------|
+| O sistema deve permitir que os professores registrem faltas dos alunos de forma fácil e intuitiva.|
+| Deve possibilitar o registro de faltas tanto no início das aulas quanto após o intervalo.|
+| Base de controle de presença, para coletar as faltas dos alunos de forma organizada.|
+
+
+|Cadastro|
+|---------------------------------------------------|
+| Professores, alunos, turmas e matérias serão cadastrados no sistema para viabilizar o registro de faltas.|
+| O cadastro é essencial para identificar corretamente os atores do sistema e suas respectivas disciplinas.|
+
+
+|Relatórios de Faltas| 
+|---------------------------------------------------|
+ O sistema deve gerar relatórios de faltas agrupados por critérios como data, ano do ensino, turma, professor, disciplina ou aluno.|
+ Relatórios exportáveis em formatos comuns, como PDF e Excel, para análise e acompanhamento.|
+ Organização de todos os dados de faltas.|
+
+
+|Envio de Notificações|
+|---------------------------------------------------|
+| O sistema deve enviar notificações por e-mail para os responsáveis quando a presença de um aluno estiver abaixo de 80%.|
+| As notificações devem incluir informações detalhadas sobre as faltas do aluno, alertando os usuários sobre a situação.|
+
+
+## Requisitos Não Funcionais 
+
+|Acessibilidade e Usabilidade|
+|----------------------------------------------------|
+| O sistema deve ser acessível para todas as pessoas envolvidas, garantindo que todos consigam utilizar de forma fácil e eficiente.|
+| Deve ser acessível em todos os navegadores e dispositivos, permitindo o acesso de qualquer lugar.|
+| Garantir uma interface intuitiva e de fácil utilização.|
+
+
+|Segurança e Confiabilidade|
+|---------------------------------------------------|
+| Garantir medidas de prevenção para possíveis ameaças e vulnerabilidades|
+| Garantir a sincronização dos dados presentes na base de dados e disponibilizados para alteração.|
+
+
+|Desempenho e Responsividade| 
+|---------------------------------------------------|
+| Garantir um tempo de resposta adequado após a inserção de informações pelo usuário.|
+| O sistema deve ser ágil para alterar e buscar informações de alunos na base de dados, facilitando o seu uso.|
+
+
+|Preservação dos Dados|
+|---------------------------------------------------|
+| Garantir a preservação dos dados (em nuvem ou disco) para restauração, caso necessário.|
+
 
 # Diagrama de Atividades
 
