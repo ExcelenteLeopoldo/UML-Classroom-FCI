@@ -105,7 +105,8 @@
 
 # Diagrama de Casos de Uso
 
-![Screenshot_250](https://github.com/user-attachments/assets/a7ca9a47-2818-4e1e-ba29-b3b0231996fd)
+
+![Screenshot_250](https://github.com/user-attachments/assets/bc152489-babe-4cf0-aa12-71a696967e2a)
 
 
 # Descrição dos Casos de Uso
