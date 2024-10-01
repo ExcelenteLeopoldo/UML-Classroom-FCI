@@ -105,7 +105,8 @@
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![Screenshot_250](https://github.com/user-attachments/assets/a7ca9a47-2818-4e1e-ba29-b3b0231996fd)
+
 
 # Descrição dos Casos de Uso
 
