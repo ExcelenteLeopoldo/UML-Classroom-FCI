@@ -106,7 +106,8 @@
 # Diagrama de Casos de Uso
 
 
-![Screenshot_250](https://github.com/user-attachments/assets/bc152489-babe-4cf0-aa12-71a696967e2a)
+![WhatsApp Image 2024-10-01 at 18 10 52 (1)](https://github.com/user-attachments/assets/a82c3f12-ffe7-4789-a232-9e9a4ea0812f)
+
 
 
 # Descrição dos Casos de Uso
