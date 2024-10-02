@@ -123,8 +123,6 @@
 ![Descricao4](https://github.com/user-attachments/assets/d52f2432-4d96-418a-b25b-b65b964b2773)
 >*Descrição 4: Relacionamento entre sub-processo e sistema, caso seja detectado faltas acima de 25% desenvolvido no formato narrativa fragmentada.*
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
-
 # Diagrama de Sequência
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
