@@ -111,6 +111,13 @@
 
 
 # Descrição dos Casos de Uso
+![Descricao 1](https://github.com/user-attachments/assets/2163509a-967c-4895-84f4-427f21b25b3e)
+
+![Descricao2](https://github.com/user-attachments/assets/69b98c5e-4e4e-4d9b-9b57-b0c7956245e4)
+
+![Descricao3](https://github.com/user-attachments/assets/a372c545-387c-4248-902c-1227f1adf148)
+
+![Descricao4](https://github.com/user-attachments/assets/d52f2432-4d96-418a-b25b-b65b964b2773)
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
