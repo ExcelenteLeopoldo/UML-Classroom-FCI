@@ -112,12 +112,16 @@
 
 # Descrição dos Casos de Uso
 ![Descricao 1](https://github.com/user-attachments/assets/2163509a-967c-4895-84f4-427f21b25b3e)
+>*Descrição 1: Relacionamento entre sub-processo e sistema, caso seja detectado faltas acima de 20% desenvolvido no formato narrativa fragmentada.*
 
 ![Descricao2](https://github.com/user-attachments/assets/69b98c5e-4e4e-4d9b-9b57-b0c7956245e4)
+>*Descrição 2: Relacionamento entre professor e sistema desenvolvido no formato narrativa fragmentada.*
 
 ![Descricao3](https://github.com/user-attachments/assets/a372c545-387c-4248-902c-1227f1adf148)
+>*Descrição 3: Relacionamento entre Responsável e sistema desenvolvido no formato narrativa fragmentada.*
 
 ![Descricao4](https://github.com/user-attachments/assets/d52f2432-4d96-418a-b25b-b65b964b2773)
+>*Descrição 4: Relacionamento entre sub-processo e sistema, caso seja detectado faltas acima de 25% desenvolvido no formato narrativa fragmentada.*
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
