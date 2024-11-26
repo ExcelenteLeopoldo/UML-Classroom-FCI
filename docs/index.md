@@ -125,11 +125,11 @@
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![Sequencia](https://github.com/user-attachments/assets/46e5d593-ffb8-4d31-8c14-fda17c08d089)
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![Classes](https://github.com/user-attachments/assets/f0956672-f24b-46ce-96f4-d17bc27841a8)
 
 # Diagrama de Estados
 
